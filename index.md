@@ -12,11 +12,9 @@ hero_image_ratio: is-1by1
 Elève ingénieur en Classe Préparatoir
 
 
-Disponible XX mois à partir de Date
-
 alexandre.bourel@etu.unilasalle.fr
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+
 
 
 

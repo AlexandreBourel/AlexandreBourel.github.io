@@ -31,7 +31,6 @@ Analyse et validation : Tests en conditions réelles en EHPAD sur 5 patients pen
 `Depuis 2023` **Animateur BAFA – Centre de loisirs à Saint-En-Amiénois**
 
 _Centre de loisirs associatif accueillant des enfants de 3 à 14 ans_
-* Taille : environ XX enfants encadrés par XX animateurs.
 
 Animateur BAFA dans une équipe de 3 à 10 membres
 
@@ -41,23 +40,33 @@ Sécurité et bien-être : Veille au respect des règles de sécurité et au bie
 
 ## Compétences
 
-Langues
-* LV1 - Anglais : niveau B1 (résultat d’examen)
-* LV2 - Japonais : Débutant (résultat d’examen)
+Langues :
+
+* LV1 - Anglais : niveau B1 
+* LV2 - Japonais : Débutant 
+
 
 Informatique
 
-*Logiciels maîtrisés : Suite Microsoft Office (Word, Excel, PowerPoint), Google Workspace, Canva, GIMP.
-*Développement et programmation : Arduino (IDE), C++, Python, HTML/CSS.
-*Modélisation et conception : SolidWorks, Tinkercad.
+Logiciels maîtrisés : Suite Microsoft Office (Word, Excel, PowerPoint), Google Workspace, Canva, GIMP.
 
-Autres
-* Titulaire du BAFA (Brevet d'Aptitude aux Fonctions d'Animateur).
+Développement et programmation : Arduino (IDE), C++, Python, HTML/CSS.
+
+Modélisation et conception : SolidWorks, Tinkercad.
+
+
+Autres:
+
+Titulaire du BAFA (Brevet d'Aptitude aux Fonctions d'Animateur).
 
 ## Centres d’intérêt
 
-Loisirs 
-*Piano : Pratique depuis 1 an.
-*Sport : Arrêt après 8 ans de tennis et 4 ans de natation pour se consacrer à 100 % au karaté en loisir depuis 2 ans, avec un entretien physique régulier.
-*Voyages : Découverte de nouvelles cultures et exploration de différents pays comme l'Italie, l'Espagne, Los Angeles, la Grèce. Objectif futur : Japon, Chine, Corée du Sud.
-*Animation : Engagement en tant qu’animateur BAFA, passion pour l’encadrement et la transmission de valeurs éducatives.
+Loisirs :
+
+- Piano : Pratique depuis 1 an.
+
+- Sport : Arrêt après 8 ans de tennis et 4 ans de natation pour se consacrer à 100 % au karaté en loisir depuis 2 ans, avec un entretien physique régulier.
+  
+- Voyages : Découverte de nouvelles cultures et exploration de différents pays comme l'Italie, l'Espagne, Los Angeles, la Grèce. Objectif futur : Japon, Chine, Corée du Sud.
+  
+- Animation : Engagement en tant qu’animateur BAFA, passion pour l’encadrement et la transmission de valeurs éducatives.

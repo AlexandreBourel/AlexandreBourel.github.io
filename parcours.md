@@ -8,60 +8,56 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**Unilasalle Amiens - Energie Numérique**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en Classe Préparatoire
+* Cours : 
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac STI2D, Saint Riquier - Amiens
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2024` **Projet d’étude – Distributeur d'eau automatique pour personnes âgées en EHPAD**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+Conception et développement : Utilisation d’Arduino et de capteurs de débit pour automatiser la distribution d’eau. Programmation en C++ et intégration d’un écran LCD pour l’interface utilisateur. Temps de développement : 3 mois.
+
+Prototypage et fabrication : Modélisation 3D sous SolidWorks et impression 3D du boîtier. Assemblage de 10 composants électroniques et test du système. Coût du prototype : 150 €.
+
+Analyse et validation : Tests en conditions réelles en EHPAD sur 5 patients pendant 2 semaines. Recueil de 90 % de retours positifs et ajustements pour optimiser l’ergonomie et la consommation d’eau (réduction de 30 % du gaspillage).
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`Depuis 2023` **Animateur BAFA – Centre de loisirs à Saint-En-Amiénois**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Centre de loisirs associatif accueillant des enfants de 3 à 14 ans_
+* Taille : environ XX enfants encadrés par XX animateurs.
 
-`20XX` **Association, description de l’asso., taille**
+Animateur BAFA dans une équipe de 3 à 10 membres
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+Encadrement et animation : Organisation et animation d’activités ludiques, éducatives et sportives pour des grands groupes pouvant dépasser les 30 enfants.
+Gestion de projets : Mise en place de grands jeux, ateliers créatifs et sorties pédagogiques. Création de supports pédagogiques adaptés.
+Sécurité et bien-être : Veille au respect des règles de sécurité et au bien-être des enfants. Formation aux premiers secours et gestion des conflits.
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 - Anglais : niveau B1 (résultat d’examen)
+* LV2 - Japonais : Débutant (résultat d’examen)
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+
+*Logiciels maîtrisés : Suite Microsoft Office (Word, Excel, PowerPoint), Google Workspace, Canva, GIMP.
+*Développement et programmation : Arduino (IDE), C++, Python, HTML/CSS.
+*Modélisation et conception : SolidWorks, Tinkercad.
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Titulaire du BAFA (Brevet d'Aptitude aux Fonctions d'Animateur).
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
-
-Loisirs 1
-* Description 
-* Description 
+Loisirs 
+*Piano : Pratique depuis 1 an.
+*Sport : Arrêt après 8 ans de tennis et 4 ans de natation pour se consacrer à 100 % au karaté en loisir depuis 2 ans, avec un entretien physique régulier.
+*Voyages : Découverte de nouvelles cultures et exploration de différents pays comme l'Italie, l'Espagne, Los Angeles, la Grèce. Objectif futur : Japon, Chine, Corée du Sud.
+*Animation : Engagement en tant qu’animateur BAFA, passion pour l’encadrement et la transmission de valeurs éducatives.

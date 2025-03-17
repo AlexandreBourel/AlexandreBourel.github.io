@@ -9,7 +9,7 @@ hero_image_ratio: is-1by1
 ---
 
 # Alexandre BOUREL
-Elève ingénieur en Classe Préparatoir
+Elève ingénieur en Classe Préparatoire
 
 
 alexandre.bourel@etu.unilasalle.fr

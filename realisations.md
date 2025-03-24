@@ -6,7 +6,7 @@ show_hero: true
 hero_height: is-small
 ---
 
-## ROB'EAU
+<h1>ROB'EAU</h1> 
 
 `2023 – 2024`
 ROB'EAU est un distributeru d'eau automatiser pour personne agée en EPHAD.
